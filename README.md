@@ -10,12 +10,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 ```
 
-    C:\Users\Febian\anaconda3\lib\site-packages\pandas\core\computation\expressions.py:21: UserWarning: Pandas requires version '2.8.4' or newer of 'numexpr' (version '2.8.3' currently installed).
-      from pandas.core.computation.check import NUMEXPR_INSTALLED
-    C:\Users\Febian\anaconda3\lib\site-packages\pandas\core\arrays\masked.py:60: UserWarning: Pandas requires version '1.3.6' or newer of 'bottleneck' (version '1.3.5' currently installed).
-      from pandas.core import (
-    
-
 
 ```python
 # The photo of the TV show
